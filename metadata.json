@@ -1,0 +1,8 @@
+{
+  "name": "Oracle Universe OS",
+  "description": "A world-class administrative interface for the Gemini AI Universe, featuring multi-agent orchestration, memory management, and real-time system metrics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
